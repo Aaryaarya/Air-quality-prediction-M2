@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+statsmodels
+prophet
+tensorflow>=2.6
+xgboost
+joblib
+matplotlib
+seaborn
+python-dateutil
+tqdm

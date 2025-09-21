@@ -1,0 +1,6 @@
+ARIMA -> {'mae': 8.810518605496563, 'rmse': np.float64(13.988164236918527), 'mape': np.float64(inf), 'smape': np.float64(14.928006083687606)}
+Prophet -> {'mae': 32.510426680829156, 'rmse': np.float64(45.36679091670164), 'mape': np.float64(inf), 'smape': np.float64(50.689163858230124)}
+LSTM -> {'mae': 9.175716355731842, 'rmse': np.float64(14.667561781334523), 'mape': np.float64(inf), 'smape': np.float64(15.641456125844137)}
+XGBoost -> {'mae': 13.413553243870554, 'rmse': np.float64(20.00343794892283), 'mape': np.float64(inf), 'smape': np.float64(22.785411060651438)}
+Best model: ARIMA
+Timestamp: 20250921_1712
