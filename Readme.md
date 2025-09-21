@@ -52,7 +52,7 @@ AIR-QUALITY-PROJECT/
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Aaryaarya/Air-quality-prediction-M2.git>
 cd AIR-QUALITY-PROJECT
 ````
 
