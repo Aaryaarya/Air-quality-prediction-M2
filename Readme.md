@@ -21,25 +21,25 @@ This repository contains code and resources for the **Air Quality Forecasting & 
 AIR-QUALITY-PROJECT/
 ├── data/
 │   ├── processed/
-│   │   └── cleaned\_AQI\_dataset.csv
+│   │   └── cleaned_AQI_dataset.csv
 │   └── raw/
-├── Milestone\_1/
+├── Milestone_1/
 │   └── Visualizations/
-├── Milestone\_2/
-│   ├── all\_metrics\_summary.csv
+├── Milestone_2/
+│   ├── all_metrics_summary.csv
 │   ├── bestmodel.zip
-│   ├── model\_metrics\_20250921\_1712.txt
-│   └── model\_results.txt
+│   ├── model_metrics_20250921_1712.txt
+│   └── model_results.txt
 ├── scripts/
 │   ├── **pycache**/
-│   ├── eda\_save.py
+│   ├── eda_save.py
 │   ├── eda.py
-│   ├── milestone\_1.ipynb
-│   ├── train\_all\_pollutants.py
-│   ├── train\_simple.py
+│   ├── milestone_1.ipynb
+│   ├── train\_all_pollutants.py
+│   ├── train_simple.py
 │   └── utils.py
-├── milestone1\_dashboard.py
-├── milestone2\_dashboard.py
+├── milestone1_dashboard.py
+├── milestone2_dashboard.py
 ├── requirements.txt
 ├── .gitignore
 └── README.md
