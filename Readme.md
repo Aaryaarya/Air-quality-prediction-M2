@@ -114,6 +114,16 @@ streamlit run milestone2_dashboard.py
 
 ---
 
+<img width="1918" height="1027" alt="Screenshot 2025-09-21 231725" src="https://github.com/user-attachments/assets/732b351c-82ec-4528-912b-04eb99d4bd8a" />
+
+<img width="1919" height="1016" alt="Screenshot 2025-09-21 231657" src="https://github.com/user-attachments/assets/7c93c9be-56c9-4371-afd8-bde120711167" />
+<img width="1919" height="1030" alt="Screenshot 2025-09-21 232125" src="https://github.com/user-attachments/assets/30d0a371-0b42-4561-8926-50146627bcc9" />
+
+<img width="1911" height="970" alt="Screenshot 2025-09-21 232248" src="https://github.com/user-attachments/assets/fb884000-6993-4f6a-a2e9-06ad1659934c" />
+
+
+
+
 ## ⚠️ Notes
 
 * `venv/` and other large files like `.pkl` models are ignored in `.gitignore`.
