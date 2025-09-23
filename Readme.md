@@ -1,7 +1,7 @@
 
 # Air Quality Project – Milestone 2
 
-This repository contains code and resources for the **Air Quality Forecasting & Dashboard project**, focusing on **Milestone 2**, but also includes **Milestone 1** resources.
+This repository contains code and resources for the **Air Quality Forecasting & Dashboard project**, focusing on **Milestone 3,2**, but also includes **Milestone 1** resources.
 
 ---
 
