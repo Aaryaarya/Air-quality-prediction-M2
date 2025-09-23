@@ -11,7 +11,7 @@ This repository contains code and resources for the **Air Quality Forecasting & 
 - Visualize historical pollutant trends.
 - Compare model performance using metrics like **RMSE, MAE, MAPE, sMAPE**.
 - Streamlit dashboards for model training, predictions, and results visualization.
-
+-uploaded the csv file and Convert pollutant data to AQI and generate alerts with insights based on air quality levels
 ---
 
 ## 📁 Repository Structure
@@ -112,14 +112,26 @@ streamlit run milestone1_dashboard.py
 streamlit run milestone2_dashboard.py
 ```
 
----
 
+* **Milestone 3-Alert System dashboard:**
+
+```bash
+streamlit run milestone2_dashboard.py
+```
+
+---
+MILESTONE1
 <img width="1918" height="1027" alt="Screenshot 2025-09-21 231725" src="https://github.com/user-attachments/assets/732b351c-82ec-4528-912b-04eb99d4bd8a" />
 
 <img width="1919" height="1016" alt="Screenshot 2025-09-21 231657" src="https://github.com/user-attachments/assets/7c93c9be-56c9-4371-afd8-bde120711167" />
+MILESTONE-2
 <img width="1919" height="1030" alt="Screenshot 2025-09-21 232125" src="https://github.com/user-attachments/assets/30d0a371-0b42-4561-8926-50146627bcc9" />
 
 <img width="1911" height="970" alt="Screenshot 2025-09-21 232248" src="https://github.com/user-attachments/assets/fb884000-6993-4f6a-a2e9-06ad1659934c" />
+
+MILESTONE-3
+<img width="1843" height="852" alt="Screenshot 2025-09-23 215749" src="https://github.com/user-attachments/assets/6f733f65-fb6d-4ff5-810d-893d5a099e0f" />
+<img width="1909" height="1013" alt="Screenshot 2025-09-23 215923" src="https://github.com/user-attachments/assets/d18d416f-3a1d-4e0a-b5ae-11ddc989c40b" />
 
 
 
