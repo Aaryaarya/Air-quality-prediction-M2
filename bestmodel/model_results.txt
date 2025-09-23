@@ -1,0 +1,4 @@
+ARIMA -> RMSE: 13.99, MAE: 8.81
+Prophet -> RMSE: 45.37, MAE: 32.51
+LSTM -> RMSE: 14.55, MAE: 9.24
+Best model: ARIMA

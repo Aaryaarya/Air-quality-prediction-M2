@@ -1,4 +1,4 @@
-# scripts/train_all_pollutants.py
+
 import os
 import pandas as pd
 import numpy as np
