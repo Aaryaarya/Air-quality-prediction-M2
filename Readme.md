@@ -100,6 +100,16 @@ unzip Milestone_1/bestmodel.zip -d bestmodel/
 
 6. **Run the Streamlit dashboards**
 
+   Run the Final Dashboard:
+To see the outputs of the final dashboard , run the Streamlit app:
+
+```bash
+streamlit run app.py
+```
+
+
+
+The project also includes a dashboard for each milestone to visualize outputs:
 * **Milestone 1 dashboard:**
 
 ```bash
@@ -120,6 +130,16 @@ streamlit run milestone2_dashboard.py
 ```
 
 ---
+Final output:
+
+<img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/b114850b-6118-45c1-82b0-e97b2497d638" />
+<img width="1919" height="996" alt="image" src="https://github.com/user-attachments/assets/8bcb9c6f-1943-428e-9c60-d4251dda5615" />
+<img width="1911" height="996" alt="image" src="https://github.com/user-attachments/assets/593147fe-9582-4cab-b214-e36be3c15513" />
+<img width="1919" height="1002" alt="image" src="https://github.com/user-attachments/assets/bbba4569-a4b6-4982-8bed-b79188822f8c" />
+
+
+
+
 MILESTONE1
 <img width="1918" height="1027" alt="Screenshot 2025-09-21 231725" src="https://github.com/user-attachments/assets/732b351c-82ec-4528-912b-04eb99d4bd8a" />
 
