@@ -40,7 +40,9 @@ AIR-QUALITY-PROJECT/
 │   └── utils.py
 ├── milestone1_dashboard.py
 ├── milestone2_dashboard.py
+|__milestone3_dashboard.py
 ├── requirements.txt
+|__app.py
 ├── .gitignore
 └── README.md
 
