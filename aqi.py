@@ -1,8 +1,5 @@
 
 
-# aqi.py
-# AQI calculation module for India CPCB standard with alert logic
-
 import numpy as np
 
 # Breakpoints (India)
@@ -31,7 +28,6 @@ AQI_CATEGORIES = [
     (401, 500, "Severe")
 ]
 
-# --- Functions ---
 
 def get_bp_table():
     """Return AQI breakpoint table"""
